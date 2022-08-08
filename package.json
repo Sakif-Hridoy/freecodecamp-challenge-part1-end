@@ -16,5 +16,6 @@
   "version": "1.0.0",
   "author": "John Doe",
   "license": "MIT",
-  "keywords": [ "descriptive", "related", "words","freecodecamp" ]
+  "keywords": [ "descriptive", "related", "words","freecodecamp" ],
+  "package": "MAJOR.MINOR.PATCH"
 }
