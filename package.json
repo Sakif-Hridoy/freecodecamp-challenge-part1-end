@@ -14,5 +14,6 @@
   "description": "A project that does something awesome",
   "version": "1.0.0",
   "author": "John Doe",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [ "descriptive", "related", "words" ]
 }
